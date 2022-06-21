@@ -1,0 +1,5 @@
+command /spawn:
+  description: "Sends you to spawn."
+  usage: /spawn
+  trigger:
+    teleport player to spawn
